@@ -3,3 +3,5 @@ Fichier text de qualite
 Ajout une ligne de A
 
 Puis une autre
+
+Ligne de A qui devrait amener à un conflit
