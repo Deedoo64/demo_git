@@ -5,3 +5,5 @@ Ajout une ligne de A
 Puis une autre
 
 B Resoud le conflit
+
+AAA
