@@ -4,4 +4,4 @@ Ajout une ligne de A
 
 Puis une autre
 
-Ligne de B qui devrait amener à un conflit
+B Resoud le conflit
