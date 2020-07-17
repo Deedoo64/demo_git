@@ -10,5 +10,4 @@ AAA
 BBB
 BB
 
-
 AA repond a mais, B va pusher avant A (a inserer la réponse de B, donc merge manuel)
