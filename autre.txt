@@ -7,3 +7,4 @@ Puis une autre
 B Resoud le conflit
 
 AAA
+BBB
